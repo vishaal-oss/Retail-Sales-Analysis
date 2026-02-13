@@ -115,7 +115,7 @@ Implement RFM customer segmentation
 
 Deploy dashboard to Power BI Service
 
-👨‍💻 Author
+ Author
 
-Your VISHAAL S
+VISHAAL S
 Aspiring Data Analyst
